@@ -1,0 +1,12 @@
+data/
+dataset/
+*.zip
+*.pth
+*.pt
+*.ckpt
+*.pkl
+kaggle.json
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,4 +1,4 @@
-# ShearVision: Local Sheep Breed Classification
+# 🐑 ShearVision: Local Sheep Breed Classification
 
 ShearVision is an automated computer vision-based system for classifying local sheep breed images using DINOv2 Vision Transformer transfer learning.
 
